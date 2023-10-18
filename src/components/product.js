@@ -1,4 +1,3 @@
-import { faAngleDown } from "@fortawesome/free-solid-svg-icons";
 import absraction from "../abstract3D.jpg";
 import illution from "../illusion.jpg";
 export default function Product() {
